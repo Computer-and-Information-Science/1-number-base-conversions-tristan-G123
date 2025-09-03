@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/OmT6fbBr)
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=20266916)
 # Number Base Conversions
 
 Carry out the base number conversions described below using the techniques demonstrated in class. Prepare your answers in [Markdown](https://gist.github.com/cuonggt/9b7d08a597b167299f0d) format in file *RESPONSES.md*. 
